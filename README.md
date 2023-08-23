@@ -8,6 +8,10 @@ First portfolio developed with Alura's HTML and CSS courses.
 * CSS
 * Flex-box
 
+## Project 
+
+[Click here to access the project](https://portfolio-iota-two-19.vercel.app/index.html).
+
 ## Preview
 
 * Web version
