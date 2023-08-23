@@ -10,5 +10,12 @@ First portfolio developed with Alura's HTML and CSS courses.
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+* Web version
+
+![Portfolio Web](https://github.com/tiesa-asr/portfolio/assets/132412724/b1509d84-2aae-4a23-87fd-5ccbd3144640)
+
+* Mobile version
+
+![Portfolio Mobile](https://github.com/tiesa-asr/portfolio/assets/132412724/c9b9c914-a825-43b4-997d-60667e703f45)
+
 
